@@ -32,7 +32,7 @@ TARGET_BOOTLOADER_BOARD_NAME := jagnm
 BOARD_HAVE_BLUETOOTH_BCM := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/jagnm/bluetooth
 BOARD_HAVE_BLUETOOTH := true
-BOARD_BLUEDROID_VENDOR_CONF := device/lge/jagnm/bluetooth/vnd_g3s.txt
+BOARD_BLUEDROID_VENDOR_CONF := device/lge/jagnm/bluetooth/vnd_jagnm.txt
 
 # Wifi
 WPA_SUPPLICANT_VERSION := VER_0_8_X
@@ -46,7 +46,7 @@ WIFI_DRIVER_FW_PATH_AP := "/system/etc/firmware/fw_bcmdhd_apsta.bin"
 WIFI_DRIVER_FW_PATH_STA := "/system/etc/firmware/fw_bcmdhd.bin"
 
 # Kernel
-TARGET_KERNEL_CONFIG := jagnm_cyanogenmod_defconfig
+TARGET_KERNEL_CONFIG := maxi_jagnm_defconfig
 
 # Filesystem
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x00D00000

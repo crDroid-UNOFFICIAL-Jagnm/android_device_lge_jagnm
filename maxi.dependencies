@@ -1,5 +1,9 @@
 [
   {
+    "repository": "proprietary_vendor_lge",
+    "target_path": "vendor/lge"
+  },
+  {
     "repository": "android_device_lge_msm8226-common",
     "target_path": "device/lge/msm8226-common"
   }

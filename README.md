@@ -1,1 +1,4 @@
-CyanogenMod 13.0 device configuration for LG G3s LTE D722
+LG G3 Beat a.k.a "jagnm" device-tree for MaxiCM
+=============================
+
+MaxiCM MM Device Tree for LG G3 Beat (D722P)
