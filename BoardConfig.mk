@@ -46,7 +46,7 @@ WIFI_DRIVER_FW_PATH_AP := "/system/etc/firmware/fw_bcmdhd_apsta.bin"
 WIFI_DRIVER_FW_PATH_STA := "/system/etc/firmware/fw_bcmdhd.bin"
 
 # Kernel
-TARGET_KERNEL_CONFIG := maxi_jagnm_defconfig
+TARGET_KERNEL_CONFIG := xpi_jagnm_defconfig
 
 # Filesystem
 BOARD_BOOTIMAGE_PARTITION_SIZE := 23068672 # 22M

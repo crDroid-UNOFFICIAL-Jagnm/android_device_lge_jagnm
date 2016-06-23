@@ -1,4 +1,4 @@
-LG G3 Beat a.k.a "jagnm" device-tree for MaxiCM
+LG G3 Beat a.k.a "jagnm" device-tree for crdroid
 =============================
 
-MaxiCM MM Device Tree for LG G3 Beat (D722P)
+crdroidify MM Device Tree for LG G3 Beat (D722P)
